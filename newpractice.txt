@@ -1,0 +1,2 @@
+practicing few commands in git
+GIT is very important tool in devops journey
