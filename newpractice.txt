@@ -1,2 +1,3 @@
 practicing few commands in git
 GIT is very important tool in devops journey
+Git is a version control tool
