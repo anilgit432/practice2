@@ -1,0 +1,3 @@
+today i practiced the complete git cycle
+Git is used for version control
+i learned commits,tags,and git push
